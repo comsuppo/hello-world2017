@@ -3,4 +3,5 @@
 更新2回目です
 
 
-こちらは　master です。
+こちらは branch-A であり、　master でもある。
+
